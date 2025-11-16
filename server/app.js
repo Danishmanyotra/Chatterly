@@ -8,11 +8,12 @@ import userRouter from './routes/user.routes.js'
 import messageRouter from './routes/message.routes.js';
 const app= express();
 
-config({path:"./config/config.env"});
+// config({path:"./config/config.env"});
+config();
 
 app.use(cors({
     origin:["http://localhost:5173",
-             /\.onrender\.com$/
+             "https://chatterly-1-cv1s.onrender.com"
     ],
     credentials:true,
     methods:['GET','POST','PUT','DELETE'],
