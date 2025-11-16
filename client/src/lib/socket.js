@@ -4,7 +4,7 @@ let socket =null;
 export const connectSocket = (userId) => {
     
     socket = io(
-        import.meta.env.MODE === "development"? "http://localhost:4000": "https://chatterly-rbjx.onrender.com",
+        import.meta.env.MODE === "development"? "http://localhost:4000": "/",
     {
         withCredentials:true,
         query:{userId},
