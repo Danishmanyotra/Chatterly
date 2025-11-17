@@ -151,6 +151,26 @@ You can run this project locally and log in using the following demo accounts:
 Please explore all the features and experience the full flow of the application.  
 I hope you enjoy using Chatterly as much as I enjoyed building it! 🚀💬
 
+## 🚀 Chatterly Preview
+
+Below is a quick preview of the Chatterly UI:
+
+<p align="center">
+  <img src="./assets/Login.png" width="400" />
+  <img src="./assets/Register.png" width="400" />
+   <img src="./assets/ChatDashboard.png" width="400" />
+  <img src="./assets/ChattingPage.png" width="400" />
+   <img src="./assets/UpdateProfile.png" width="400" />
+  
+ 
+</p>
+
+## ⭐ Feedback
+If you like this project, don’t forget to ⭐ star the repository.
+
+Your support motivates me to improve and build more amazing projects!
+
+
 
 
 
