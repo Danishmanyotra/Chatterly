@@ -106,6 +106,57 @@ To run this project, you will need to add the following environment variables to
 
 * `FRONTEND_URL=http://localhost:5173`
 
+## ▶️Run the Project Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Danishmanyotra/Chatterly
+```
+
+Backend
+
+```bash
+  cd server
+  npm install
+  npm run dev
+```
+
+Frontend
+
+```bash
+  cd client
+  npm install
+  npm run dev
+```
+
+
+## 🔐 Demo Credentials (For Local Testing)
+
+You can run this project locally and log in using the following demo accounts:
+
+```bash
+  User1
+  Email: danish@gmail.com
+  Password: 12345678
+```
+```bash
+  User2
+  Email: anil@gmail.com
+  Password: 12345678
+```
+`💡 These accounts are only for development and testing purposes.`
+
+### 🙌 Final Note
+Please explore all the features and experience the full flow of the application.  
+I hope you enjoy using Chatterly as much as I enjoyed building it! 🚀💬
+
+
+
+
+
+
+
 
 
 
